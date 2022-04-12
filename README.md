@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ROSINA365
-- 👀 I’m interested in Data Analysis 
-- 🌱 I’m currently learning R programming
+- 👀 I’m interested in Data Analysis and Web Development.
+- 🌱 I’m currently learning R programming, python for data analysis.
 - 💞️ I’m looking to collaborate on any project, tasks and challenges that entail R to ehance my analysis skills
 - 📫 How to reach me rosinasharon6@gmail.com
 
