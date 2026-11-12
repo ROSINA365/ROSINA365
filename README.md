@@ -46,7 +46,7 @@ My sales background means I understand what the business needs from the numbers.
 
 - **Graduate Research Assistant**, University of South Dakota
 - **ERP Data Support / Power BI Intern**
-- **Tutor**
+- **Mathematics Tutor**
 - **Sales Development Representative** (2+ years, Kenya): cold calling, email outreach and pipeline management with HubSpot and Smartlead
 
 ---
